@@ -3,7 +3,7 @@
 <h3 align="center">About Me 🚀</h3>
 
 <p align="center">
-  Hi there! 👋 I'm a <strong>Cloud & DevOps Engineer</strong> at Deutsche Telekom, passionate about building and maintaining scalable software architectures in the cloud.
+  Hello, I'm Pepe a <strong>Cloud & DevOps Engineer</strong> at Deutsche Telekom, passionate about building and maintaining scalable software architectures in the cloud.
   <br />
   My day-to-day involves working with major cloud providers and leveraging tools like <strong>Kubernetes</strong>, <strong>Docker</strong>, and CI/CD pipelines to streamline deployments. I'm a big fan of <strong>Infrastructure as Code (IaC)</strong>, automation, and building robust, secure, and efficient systems.
   <br /><br />
@@ -36,27 +36,19 @@
 <h3 align="center">Social media:</h3>
 
 <div align="center">
-  <a href="https://linkedin.com/in/pepepfoter15">
+  <a href="https://linkedin.com/in/pepepfoter15" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
   <img width="12" />
-  <a href="https://twitter.com/PepeRodrguezCa3">
+  <a href="https://twitter.com/PepeRodrguezCa3" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
   </a>
   <img width="12" />
-  <a href="https://discord.com/users/pfoter15">
+  <a href="https://discord.com/users/pfoter15" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
   </a>
   <img width="12" />
-  <a href="https://instagram.com/pepee.15">
+  <a href="https://instagram.com/pepee.15" style="text-decoration: none;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>

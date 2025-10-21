@@ -1,5 +1,9 @@
 <h1 align="center">Hi everyone! :)</h1>
 
+<p align="center">
+  <img src="img/pepepfoter_readmelogo.JPG" width="600">
+</p>
+
 <h3 align="center">About Me 🚀</h3>
 
 <p align="center">
